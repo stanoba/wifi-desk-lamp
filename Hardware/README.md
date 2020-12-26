@@ -1,9 +1,8 @@
 # WiFi Controlled Desk Lamp - Electronic
 
-Electronic is built around Wemos D1 Mini which act as brain of the desk lamp. On the PCB we can also find 74HC125D for 3.3V-5V level-shifting, MAX4466 as audio input and TSOP38238 as IR input. Electronic is powered from 5V 2A power adapter. 
+Electronic is built around **Wemos D1 Mini** which act as brain of the desk lamp. On the PCB we can also find **74HC125D** for 3.3V-5V level-shifting, **MAX4466** as audio input and **TSOP38238** as IR input. Electronic is powered from 5V 2A power adapter and protected by ~1.6A glass fuse (depends on led stripe).
 
-<a href="PCB1.jpg" target="_blank"><img src="PCB1.jpg" width="350" alt="Schematic"></a>
-<a href="PCB2.jpg" target="_blank"><img src="PCB2.jpg" width="350" alt="Schematic"></a>
+<a href="PCB1.jpg" target="_blank"><img src="PCB1.jpg" width="350" alt="Schematic"></a> <a href="PCB2.jpg" target="_blank"><img src="PCB2.jpg" width="350" alt="Schematic"></a>
 
 ---
 ## Schematic
@@ -15,8 +14,7 @@ Electronic is built around Wemos D1 Mini which act as brain of the desk lamp. On
 
 PCB was designed in Eagle 9.6.2:
 
-<img src="PCB.png" width="350" alt="PCB">
-<img src="PCB_components.png" width="350" alt="PCB">
+<img src="PCB.png" width="350" alt="PCB"> <img src="PCB_components.png" width="350" alt="PCB">
 
 
 ---
