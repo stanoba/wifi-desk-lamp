@@ -40,7 +40,7 @@ See <a href="./3D models">3D models</a> README.md for more info.
 - 4x screws 3 x 13 mm
 
 ---
-#### 2. LED stripe WiFi Controller
+#### 2. LED stripe WiFi Controller (Puck)
 
 <a href="./Images/10.jpg" target="_blank"><img src="./Images/10.jpg" width="350" alt="Schematic"></a> <a href="./Images/11.jpg" target="_blank"><img src="./Images/11.jpg" width="350" alt="Schematic"></a>
 
