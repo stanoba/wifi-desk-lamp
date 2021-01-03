@@ -24,7 +24,11 @@ See <a href="./3D models">3D models</a> README.md for more info.
 
 #### 1. WiFi Controlled Desk Lamp
 
-<a href="./Images/02.jpg" target="_blank"><img src="./Images/02.jpg" width="350" alt="Schematic"></a> <a href="./Images/03.jpg" target="_blank"><img src="./Images/03.jpg" width="350" alt="Schematic"></a>
+<a href="./Images/02.jpg" target="_blank"><img src="./Images/02.jpg" width="350" alt="WiFi Controlled Desk Lamp Build"></a> <a href="./Images/03.jpg" target="_blank"><img src="./Images/03.jpg" width="350" alt="WiFi Controlled Desk Lamp Build"></a>
+
+<a href="./Images/04.jpg" target="_blank"><img src="./Images/04.jpg" width="232" alt="WiFi Controlled Desk Lamp Build"></a> <a href="./Images/05.jpg" target="_blank"><img src="./Images/05.jpg" width="232" alt="WiFi Controlled Desk Lamp Build"></a> <a href="./Images/06.jpg" target="_blank"><img src="./Images/06.jpg" width="232" alt="WiFi Controlled Desk Lamp Build"></a>
+
+<a href="./Images/07.jpg" target="_blank"><img src="./Images/07.jpg" width="232" alt="WiFi Controlled Desk Lamp Build"></a> <a href="./Images/08.jpg" target="_blank"><img src="./Images/08.jpg" width="232" alt="WiFi Controlled Desk Lamp Build"></a> <a href="./Images/09.jpg" target="_blank"><img src="./Images/09.jpg" width="232" alt="WiFi Controlled Desk Lamp Build"></a>
 
 **BoM:**
 - 1x WiFi_Controlled_Desk_Lamp_Base.stl
@@ -40,9 +44,9 @@ See <a href="./3D models">3D models</a> README.md for more info.
 - 4x screws 3 x 13 mm
 
 ---
-#### 2. LED stripe WiFi Controller
+#### 2. LED stripe WiFi Controller (Puck)
 
-<a href="./Images/10.jpg" target="_blank"><img src="./Images/10.jpg" width="350" alt="Schematic"></a> <a href="./Images/11.jpg" target="_blank"><img src="./Images/11.jpg" width="350" alt="Schematic"></a>
+<a href="./Images/11.jpg" target="_blank"><img src="./Images/11.jpg" width="232" alt="LED stripe WiFi Controller (Puck)"></a> <a href="./Images/10.jpg" target="_blank"><img src="./Images/10.jpg" width="232" alt="LED stripe WiFi Controller (Puck)"></a> <a href="./Images/12.jpg" target="_blank"><img src="./Images/12.jpg" width="232" alt="LED stripe WiFi Controller (Puck)"></a>
 
 **BoM:**
 - 1x WiFi_Controlled_Desk_Lamp_Base.stl
