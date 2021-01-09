@@ -2,17 +2,20 @@
 
 **WiFi Controlled Desk Lamp** project was inspired by [Twisted WiFi Controlled Desk Lamp](https://www.thingiverse.com/thing:4129249). 
 
-<a href="Images/01.jpg" target="_blank"><img src="Images/01.jpg" width="700" alt="Schematic"></a>
+<a href="Images/01.jpg" target="_blank"><img src="Images/01.jpg" width="700" alt="Lamp"></a>
 
 Desk Lamp includes 80 WS2812B LEDs total split in 8 segments by 10 LEDs.
 
+## Video
+<a href="https://www.youtube.com/watch?v=vDEgVuxRVS8" target="_blank"><img src="Images/video_title.jpg" width="700" alt="Lamp"></a>
+
 ## Electronic
-<img src="./Hardware/PCB1.jpg" width="250" alt="Schematic">
+<img src="./Hardware/PCB1.jpg" width="250" alt="PCB">
 
 See <a href="./Hardware">Hardware</a> README.md for more info.
 
 ## 3D printed parts
-<img src="Images/03.jpg" width="250" alt="Schematic">
+<img src="Images/03.jpg" width="250" alt="3D printed parts">
 
 See <a href="./3D models">3D models</a> README.md for more info.
 
